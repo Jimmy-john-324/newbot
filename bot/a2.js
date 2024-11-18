@@ -24,7 +24,7 @@ pt.use(StealthPlugin());
 // );
 
 // let PASSWORD = "!@#QWE123qwe";
-const SLACK_APP_TOKEN = "";
+let SLACK_APP_TOKEN = "";
 
 SLACK_APP_TOKEN += "xoxb-";
 SLACK_APP_TOKEN += "7995635574930-8017099";
